@@ -1,0 +1,58 @@
+.nav-pills{
+  font-size:18px;
+  background-color:black;
+  font-family:arial black;
+}
+  
+.page1 {
+  background:url("https://res.cloudinary.com/dzbcizrmm/image/upload/v1519639748/40201123292_e5a5478bca_h_lhwly1.webp");
+ background-size:95%;
+  
+  padding-top:723px;
+ 
+
+   
+    
+}
+yoo{
+  height:35%;
+}
+
+h1{
+  font-family: arial black;
+  color:White;
+    font-size: 200%;
+  text-align: center;
+  
+      
+        position:absolute;
+  
+  bottom:790px;
+  padding-left:450px
+    
+  
+    
+}
+
+.page2{
+  background:url("https://res.cloudinary.com/dzbcizrmm/image/upload/c_scale,h_2290,w_2469/v1519199893/trevor-cole-385246-unsplash_z8cdmq.jpg");
+  background-size:cover;
+  
+  height:1800px;
+  color:black;
+  
+}
+p{
+  position:absolute;
+  top:150px;
+  font-size:27px
+  
+}
+
+
+.page4{
+  background:url("https://res.cloudinary.com/dzbcizrmm/image/upload/v1519673464/5278645341_b057cb6043_b_dslo3r.webp");
+ background-size:100%;
+  height:850px;
+    
+}
